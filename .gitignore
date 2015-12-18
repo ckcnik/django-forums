@@ -11,3 +11,4 @@ local_settings.py
 /dist/
 coverage/
 .coverage
+/.idea/
